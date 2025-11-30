@@ -37,7 +37,7 @@ Cada integrante tiene su propio video explicando el proyecto, la concurrencia y 
 El detalle completo de la arquitectura, patrones de concurrencia, análisis de rendimiento y consideraciones de seguridad se encuentra en el manual técnico en PDF.
 
 👉 **Abrir manual técnico:**  
-[📄 Manual Técnico actividad 2 DSS](./Manual_Técnico_actividad_2_dss.pdf)
+[📄 Manual Técnico actividad 2 DSS](./Manual_Tecnico_actividad_2_dss.pdf)
 
 ---
 
