@@ -26,7 +26,7 @@ El sistema simula una central de despacho que:
 Cada integrante tiene su propio video explicando el proyecto, la concurrencia y las decisiones de seguridad.
 
 - [🎬 Video de Juan Guillermo](https://www.youtube.com/watch?v=BW91SF7ZFgI )
-- [🎬 Video de Cristian Felipe](https://youtu.be/VIDEO_CRISTIAN_FELIPE)
+- [🎬 Video de Cristian Felipe](https://youtu.be/OU56H3R55to)
 - [🎬 Video de Juan David](https://youtu.be/VIDEO_JUAN_DAVID)
 
 
