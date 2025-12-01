@@ -114,11 +114,7 @@ El detalle completo de la arquitectura, patrones de concurrencia, análisis de r
 - Uso de **tipos atómicos** (`AtomicReference` y contadores concurrentes) para mantener la integridad de estados compartidos sin bloqueos pesados.  
 - Uso de `tryLock` con **timeout** para evitar bloqueos indefinidos y mejorar la disponibilidad del sistema.  
 - Estrategia de prioridad que incluye el **tiempo de espera**, evitando starvation de incidentes de menor severidad.  
-- Diseño preparado para extenderse en un entorno real con:
-  - Autenticación y autorización de usuarios.  
-  - Validación de datos de entrada.  
-  - Políticas de logging que eviten exponer información sensible.  
-
+  
 ---
 
 ## 📌 Notas finales
